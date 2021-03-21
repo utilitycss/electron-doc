@@ -1,0 +1,19 @@
+{
+  "name": "@utilitycss/electron-doc",
+  "version": "1.0.0",
+  "description": "A simple one page document for available electrons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/utilitycss/electron-doc.git"
+  },
+  "author": "Sylvester Aswin <me@sylvesteraswin.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/utilitycss/electron-doc/issues"
+  },
+  "homepage": "https://github.com/utilitycss/electron-doc#readme"
+}
