@@ -7,13 +7,13 @@ import { ContextState, ContextProvider } from "./context";
 
 declare global {
   interface Window {
-    resData: string;
+    resData: ContextState;
   }
 }
 
 let data: ContextState;
 if (process.env.NODE_ENV === "production") {
-  data = JSON.parse(window.resData);
+  data = window.resData;
 } else {
   data = require("../mocks/modules.json");
 }

@@ -17,7 +17,7 @@ const config = merge(common, {
   },
   plugins: [
     new HTMLWebpackPlugin({
-      title: "JEST Diff image report",
+      title: "UtilityCSS Electron documentation.",
       template: path.join(__dirname, "src/index.dev.html"),
       filename: "index.html", // output file,
     }),

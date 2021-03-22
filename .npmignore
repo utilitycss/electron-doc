@@ -1,0 +1,10 @@
+node_modules
+
+src
+
+.eslintrc.js
+tsconfig.json
+webpack*.*
+tailwind.config.json
+postcss.config.js
+yarn.lock

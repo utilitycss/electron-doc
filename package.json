@@ -2,9 +2,10 @@
   "name": "@utilitycss/electron-doc",
   "version": "1.0.0",
   "description": "A simple one page document for available electrons",
-  "main": "index.js",
+  "main": "dist/main.js",
   "scripts": {
     "start": "NODE_ENV=development webpack serve --config webpack.config.dev.js",
+    "build": "NODE_ENV=production webpack --config webpack.config.prod.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -40,6 +41,7 @@
     "eslint-plugin-prettier": "^3.3.1",
     "eslint-plugin-react": "^7.22.0",
     "eslint-plugin-react-hooks": "^4.2.0",
+    "html-webpack-inline-source-plugin": "^1.0.0-beta.2",
     "html-webpack-plugin": "^5.3.1",
     "lodash": "^4.17.21",
     "postcss-loader": "^5.2.0",
