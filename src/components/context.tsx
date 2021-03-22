@@ -4,7 +4,7 @@ export interface ContextState {
   [key: string]: Declaration[];
 }
 
-interface Declaration {
+export interface Declaration {
   selector: string;
   meta: Meta;
   nodes: Node[];
