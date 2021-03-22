@@ -1,0 +1,3748 @@
+{
+  "box-sizing": [
+    {
+      "selector": ".bxz:cb",
+      "meta": { "module": "box-sizing", "id": "bxz:cb" },
+      "nodes": [{ "prop": "box-sizing", "value": "content-box" }]
+    },
+    {
+      "selector": ".bxz:bb",
+      "meta": { "module": "box-sizing", "id": "bxz:bb" },
+      "nodes": [{ "prop": "box-sizing", "value": "border-box" }]
+    }
+  ],
+  "font": [
+    {
+      "selector": ".fontWeight_thin",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "100" }]
+    },
+    {
+      "selector": ".fontWeight_extralight",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "200" }]
+    },
+    {
+      "selector": ".fontWeight_light",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "300" }]
+    },
+    {
+      "selector": ".fontWeight_normal",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "400" }]
+    },
+    {
+      "selector": ".fontWeight_medium",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "500" }]
+    },
+    {
+      "selector": ".fontWeight_semibold",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "600" }]
+    },
+    {
+      "selector": ".fontWeight_bold",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "700" }]
+    },
+    {
+      "selector": ".fontWeight_extrabold",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "800" }]
+    },
+    {
+      "selector": ".fontWeight_black",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "900" }]
+    },
+    {
+      "selector": ".fontWeight_thin_hover:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "100" }]
+    },
+    {
+      "selector": ".fontWeight_extralight_hover:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "200" }]
+    },
+    {
+      "selector": ".fontWeight_light_hover:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "300" }]
+    },
+    {
+      "selector": ".fontWeight_normal_hover:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "400" }]
+    },
+    {
+      "selector": ".fontWeight_medium_hover:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "500" }]
+    },
+    {
+      "selector": ".fontWeight_semibold_hover:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "600" }]
+    },
+    {
+      "selector": ".fontWeight_bold_hover:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "700" }]
+    },
+    {
+      "selector": ".fontWeight_extrabold_hover:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "800" }]
+    },
+    {
+      "selector": ".fontWeight_black_hover:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "900" }]
+    },
+    {
+      "selector": ".fontWeight_thin_focus:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "100" }]
+    },
+    {
+      "selector": ".fontWeight_extralight_focus:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "200" }]
+    },
+    {
+      "selector": ".fontWeight_light_focus:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "300" }]
+    },
+    {
+      "selector": ".fontWeight_normal_focus:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "400" }]
+    },
+    {
+      "selector": ".fontWeight_medium_focus:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "500" }]
+    },
+    {
+      "selector": ".fontWeight_semibold_focus:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "600" }]
+    },
+    {
+      "selector": ".fontWeight_bold_focus:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "700" }]
+    },
+    {
+      "selector": ".fontWeight_extrabold_focus:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "800" }]
+    },
+    {
+      "selector": ".fontWeight_black_focus:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "900" }]
+    },
+    {
+      "selector": ".fontWeight_thin_active:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "100" }]
+    },
+    {
+      "selector": ".fontWeight_extralight_active:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "200" }]
+    },
+    {
+      "selector": ".fontWeight_light_active:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "300" }]
+    },
+    {
+      "selector": ".fontWeight_normal_active:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "400" }]
+    },
+    {
+      "selector": ".fontWeight_medium_active:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "500" }]
+    },
+    {
+      "selector": ".fontWeight_semibold_active:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "600" }]
+    },
+    {
+      "selector": ".fontWeight_bold_active:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "700" }]
+    },
+    {
+      "selector": ".fontWeight_extrabold_active:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "800" }]
+    },
+    {
+      "selector": ".fontWeight_black_active:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "900" }]
+    },
+    {
+      "selector": ".fontWeightNormal",
+      "meta": { "module": "font", "id": "fw:n" },
+      "nodes": [{ "prop": "font-weight", "value": "normal" }]
+    },
+    {
+      "selector": ".fontWeightBold",
+      "meta": { "module": "font", "id": "fw:b" },
+      "nodes": [{ "prop": "font-weight", "value": "bold" }]
+    },
+    {
+      "selector": ".fontWeightBold_hover:hover",
+      "meta": { "module": "font", "id": "fw:b" },
+      "nodes": [{ "prop": "font-weight", "value": "bold" }]
+    },
+    {
+      "selector": ".fontWeightBold_focus:focus",
+      "meta": { "module": "font", "id": "fw:b" },
+      "nodes": [{ "prop": "font-weight", "value": "bold" }]
+    },
+    {
+      "selector": ".fontWeightBold_active:active",
+      "meta": { "module": "font", "id": "fw:b" },
+      "nodes": [{ "prop": "font-weight", "value": "bold" }]
+    },
+    {
+      "selector": ".fontSize_xs",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.75rem" }]
+    },
+    {
+      "selector": ".fontSize_sm",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.875rem" }]
+    },
+    {
+      "selector": ".fontSize_base",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1rem" }]
+    },
+    {
+      "selector": ".fontSize_lg",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.125rem" }]
+    },
+    {
+      "selector": ".fontSize_xl",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.25rem" }]
+    },
+    {
+      "selector": ".fontSize_2xl",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.5rem" }]
+    },
+    {
+      "selector": ".fontSize_3xl",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.875rem" }]
+    },
+    {
+      "selector": ".fontSize_4xl",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "2.25rem" }]
+    },
+    {
+      "selector": ".fontSize_5xl",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3rem" }]
+    },
+    {
+      "selector": ".fontSize_6xl",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3.75rem" }]
+    },
+    {
+      "selector": ".fontSize_7xl",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "4.5rem" }]
+    },
+    {
+      "selector": ".fontSize_8xl",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "6rem" }]
+    },
+    {
+      "selector": ".fontSize_9xl",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "8rem" }]
+    },
+    {
+      "selector": ".fontSize_xs_hover:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.75rem" }]
+    },
+    {
+      "selector": ".fontSize_sm_hover:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.875rem" }]
+    },
+    {
+      "selector": ".fontSize_base_hover:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1rem" }]
+    },
+    {
+      "selector": ".fontSize_lg_hover:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.125rem" }]
+    },
+    {
+      "selector": ".fontSize_xl_hover:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.25rem" }]
+    },
+    {
+      "selector": ".fontSize_2xl_hover:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.5rem" }]
+    },
+    {
+      "selector": ".fontSize_3xl_hover:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.875rem" }]
+    },
+    {
+      "selector": ".fontSize_4xl_hover:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "2.25rem" }]
+    },
+    {
+      "selector": ".fontSize_5xl_hover:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3rem" }]
+    },
+    {
+      "selector": ".fontSize_6xl_hover:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3.75rem" }]
+    },
+    {
+      "selector": ".fontSize_7xl_hover:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "4.5rem" }]
+    },
+    {
+      "selector": ".fontSize_8xl_hover:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "6rem" }]
+    },
+    {
+      "selector": ".fontSize_9xl_hover:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "8rem" }]
+    },
+    {
+      "selector": ".fontSize_xs_focus:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.75rem" }]
+    },
+    {
+      "selector": ".fontSize_sm_focus:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.875rem" }]
+    },
+    {
+      "selector": ".fontSize_base_focus:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1rem" }]
+    },
+    {
+      "selector": ".fontSize_lg_focus:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.125rem" }]
+    },
+    {
+      "selector": ".fontSize_xl_focus:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.25rem" }]
+    },
+    {
+      "selector": ".fontSize_2xl_focus:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.5rem" }]
+    },
+    {
+      "selector": ".fontSize_3xl_focus:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.875rem" }]
+    },
+    {
+      "selector": ".fontSize_4xl_focus:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "2.25rem" }]
+    },
+    {
+      "selector": ".fontSize_5xl_focus:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3rem" }]
+    },
+    {
+      "selector": ".fontSize_6xl_focus:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3.75rem" }]
+    },
+    {
+      "selector": ".fontSize_7xl_focus:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "4.5rem" }]
+    },
+    {
+      "selector": ".fontSize_8xl_focus:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "6rem" }]
+    },
+    {
+      "selector": ".fontSize_9xl_focus:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "8rem" }]
+    },
+    {
+      "selector": ".fontSize_xs_active:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.75rem" }]
+    },
+    {
+      "selector": ".fontSize_sm_active:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.875rem" }]
+    },
+    {
+      "selector": ".fontSize_base_active:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1rem" }]
+    },
+    {
+      "selector": ".fontSize_lg_active:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.125rem" }]
+    },
+    {
+      "selector": ".fontSize_xl_active:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.25rem" }]
+    },
+    {
+      "selector": ".fontSize_2xl_active:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.5rem" }]
+    },
+    {
+      "selector": ".fontSize_3xl_active:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.875rem" }]
+    },
+    {
+      "selector": ".fontSize_4xl_active:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "2.25rem" }]
+    },
+    {
+      "selector": ".fontSize_5xl_active:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3rem" }]
+    },
+    {
+      "selector": ".fontSize_6xl_active:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3.75rem" }]
+    },
+    {
+      "selector": ".fontSize_7xl_active:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "4.5rem" }]
+    },
+    {
+      "selector": ".fontSize_8xl_active:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "6rem" }]
+    },
+    {
+      "selector": ".fontSize_9xl_active:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "8rem" }]
+    },
+    {
+      "selector": ".fontFamily_sans",
+      "meta": { "module": "font", "id": "ff" },
+      "nodes": [
+        {
+          "prop": "font-family",
+          "value": "ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\""
+        }
+      ]
+    },
+    {
+      "selector": ".fontFamily_serif",
+      "meta": { "module": "font", "id": "ff" },
+      "nodes": [
+        {
+          "prop": "font-family",
+          "value": "ui-serif,Georgia,Cambria,\"Times New Roman\",Times,serif"
+        }
+      ]
+    },
+    {
+      "selector": ".fontFamily_mono",
+      "meta": { "module": "font", "id": "ff" },
+      "nodes": [
+        {
+          "prop": "font-family",
+          "value": "ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New\",monospace"
+        }
+      ]
+    },
+    {
+      "selector": ".fontWeight_thin_mobile",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "100" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeight_extralight_mobile",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "200" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeight_light_mobile",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "300" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeight_normal_mobile",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "400" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeight_medium_mobile",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "500" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeight_semibold_mobile",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "600" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeight_bold_mobile",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "700" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeight_extrabold_mobile",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "800" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeight_black_mobile",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "900" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeight_thin_hover_mobile:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "100" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeight_extralight_hover_mobile:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "200" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeight_light_hover_mobile:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "300" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeight_normal_hover_mobile:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "400" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeight_medium_hover_mobile:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "500" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeight_semibold_hover_mobile:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "600" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeight_bold_hover_mobile:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "700" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeight_extrabold_hover_mobile:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "800" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeight_black_hover_mobile:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "900" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeight_thin_focus_mobile:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "100" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeight_extralight_focus_mobile:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "200" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeight_light_focus_mobile:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "300" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeight_normal_focus_mobile:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "400" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeight_medium_focus_mobile:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "500" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeight_semibold_focus_mobile:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "600" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeight_bold_focus_mobile:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "700" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeight_extrabold_focus_mobile:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "800" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeight_black_focus_mobile:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "900" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeight_thin_active_mobile:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "100" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeight_extralight_active_mobile:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "200" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeight_light_active_mobile:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "300" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeight_normal_active_mobile:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "400" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeight_medium_active_mobile:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "500" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeight_semibold_active_mobile:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "600" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeight_bold_active_mobile:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "700" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeight_extrabold_active_mobile:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "800" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeight_black_active_mobile:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "900" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeightNormal_mobile",
+      "meta": { "module": "font", "id": "fw:n" },
+      "nodes": [{ "prop": "font-weight", "value": "normal" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeightBold_mobile",
+      "meta": { "module": "font", "id": "fw:b" },
+      "nodes": [{ "prop": "font-weight", "value": "bold" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeightBold_hover_mobile:hover",
+      "meta": { "module": "font", "id": "fw:b" },
+      "nodes": [{ "prop": "font-weight", "value": "bold" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeightBold_focus_mobile:focus",
+      "meta": { "module": "font", "id": "fw:b" },
+      "nodes": [{ "prop": "font-weight", "value": "bold" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeightBold_active_mobile:active",
+      "meta": { "module": "font", "id": "fw:b" },
+      "nodes": [{ "prop": "font-weight", "value": "bold" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_xs_mobile",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.75rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_sm_mobile",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.875rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_base_mobile",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_lg_mobile",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.125rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_xl_mobile",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.25rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_2xl_mobile",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.5rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_3xl_mobile",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.875rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_4xl_mobile",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "2.25rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_5xl_mobile",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_6xl_mobile",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3.75rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_7xl_mobile",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "4.5rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_8xl_mobile",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "6rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_9xl_mobile",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "8rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_xs_hover_mobile:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.75rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_sm_hover_mobile:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.875rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_base_hover_mobile:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_lg_hover_mobile:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.125rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_xl_hover_mobile:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.25rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_2xl_hover_mobile:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.5rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_3xl_hover_mobile:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.875rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_4xl_hover_mobile:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "2.25rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_5xl_hover_mobile:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_6xl_hover_mobile:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3.75rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_7xl_hover_mobile:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "4.5rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_8xl_hover_mobile:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "6rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_9xl_hover_mobile:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "8rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_xs_focus_mobile:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.75rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_sm_focus_mobile:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.875rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_base_focus_mobile:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_lg_focus_mobile:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.125rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_xl_focus_mobile:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.25rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_2xl_focus_mobile:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.5rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_3xl_focus_mobile:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.875rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_4xl_focus_mobile:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "2.25rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_5xl_focus_mobile:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_6xl_focus_mobile:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3.75rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_7xl_focus_mobile:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "4.5rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_8xl_focus_mobile:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "6rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_9xl_focus_mobile:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "8rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_xs_active_mobile:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.75rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_sm_active_mobile:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.875rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_base_active_mobile:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_lg_active_mobile:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.125rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_xl_active_mobile:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.25rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_2xl_active_mobile:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.5rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_3xl_active_mobile:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.875rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_4xl_active_mobile:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "2.25rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_5xl_active_mobile:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_6xl_active_mobile:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3.75rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_7xl_active_mobile:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "4.5rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_8xl_active_mobile:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "6rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontSize_9xl_active_mobile:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "8rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontFamily_sans_mobile",
+      "meta": { "module": "font", "id": "ff" },
+      "nodes": [
+        {
+          "prop": "font-family",
+          "value": "ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\""
+        }
+      ],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontFamily_serif_mobile",
+      "meta": { "module": "font", "id": "ff" },
+      "nodes": [
+        {
+          "prop": "font-family",
+          "value": "ui-serif,Georgia,Cambria,\"Times New Roman\",Times,serif"
+        }
+      ],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontFamily_mono_mobile",
+      "meta": { "module": "font", "id": "ff" },
+      "nodes": [
+        {
+          "prop": "font-family",
+          "value": "ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New\",monospace"
+        }
+      ],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".fontWeight_thin_phablet",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "100" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeight_extralight_phablet",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "200" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeight_light_phablet",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "300" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeight_normal_phablet",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "400" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeight_medium_phablet",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "500" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeight_semibold_phablet",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "600" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeight_bold_phablet",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "700" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeight_extrabold_phablet",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "800" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeight_black_phablet",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "900" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeight_thin_hover_phablet:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "100" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeight_extralight_hover_phablet:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "200" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeight_light_hover_phablet:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "300" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeight_normal_hover_phablet:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "400" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeight_medium_hover_phablet:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "500" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeight_semibold_hover_phablet:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "600" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeight_bold_hover_phablet:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "700" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeight_extrabold_hover_phablet:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "800" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeight_black_hover_phablet:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "900" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeight_thin_focus_phablet:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "100" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeight_extralight_focus_phablet:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "200" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeight_light_focus_phablet:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "300" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeight_normal_focus_phablet:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "400" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeight_medium_focus_phablet:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "500" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeight_semibold_focus_phablet:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "600" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeight_bold_focus_phablet:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "700" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeight_extrabold_focus_phablet:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "800" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeight_black_focus_phablet:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "900" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeight_thin_active_phablet:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "100" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeight_extralight_active_phablet:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "200" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeight_light_active_phablet:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "300" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeight_normal_active_phablet:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "400" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeight_medium_active_phablet:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "500" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeight_semibold_active_phablet:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "600" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeight_bold_active_phablet:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "700" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeight_extrabold_active_phablet:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "800" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeight_black_active_phablet:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "900" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeightNormal_phablet",
+      "meta": { "module": "font", "id": "fw:n" },
+      "nodes": [{ "prop": "font-weight", "value": "normal" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeightBold_phablet",
+      "meta": { "module": "font", "id": "fw:b" },
+      "nodes": [{ "prop": "font-weight", "value": "bold" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeightBold_hover_phablet:hover",
+      "meta": { "module": "font", "id": "fw:b" },
+      "nodes": [{ "prop": "font-weight", "value": "bold" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeightBold_focus_phablet:focus",
+      "meta": { "module": "font", "id": "fw:b" },
+      "nodes": [{ "prop": "font-weight", "value": "bold" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeightBold_active_phablet:active",
+      "meta": { "module": "font", "id": "fw:b" },
+      "nodes": [{ "prop": "font-weight", "value": "bold" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_xs_phablet",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.75rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_sm_phablet",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.875rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_base_phablet",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_lg_phablet",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.125rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_xl_phablet",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.25rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_2xl_phablet",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.5rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_3xl_phablet",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.875rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_4xl_phablet",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "2.25rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_5xl_phablet",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_6xl_phablet",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3.75rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_7xl_phablet",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "4.5rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_8xl_phablet",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "6rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_9xl_phablet",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "8rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_xs_hover_phablet:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.75rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_sm_hover_phablet:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.875rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_base_hover_phablet:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_lg_hover_phablet:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.125rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_xl_hover_phablet:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.25rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_2xl_hover_phablet:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.5rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_3xl_hover_phablet:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.875rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_4xl_hover_phablet:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "2.25rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_5xl_hover_phablet:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_6xl_hover_phablet:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3.75rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_7xl_hover_phablet:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "4.5rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_8xl_hover_phablet:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "6rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_9xl_hover_phablet:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "8rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_xs_focus_phablet:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.75rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_sm_focus_phablet:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.875rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_base_focus_phablet:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_lg_focus_phablet:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.125rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_xl_focus_phablet:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.25rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_2xl_focus_phablet:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.5rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_3xl_focus_phablet:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.875rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_4xl_focus_phablet:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "2.25rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_5xl_focus_phablet:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_6xl_focus_phablet:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3.75rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_7xl_focus_phablet:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "4.5rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_8xl_focus_phablet:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "6rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_9xl_focus_phablet:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "8rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_xs_active_phablet:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.75rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_sm_active_phablet:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.875rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_base_active_phablet:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_lg_active_phablet:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.125rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_xl_active_phablet:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.25rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_2xl_active_phablet:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.5rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_3xl_active_phablet:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.875rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_4xl_active_phablet:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "2.25rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_5xl_active_phablet:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_6xl_active_phablet:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3.75rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_7xl_active_phablet:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "4.5rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_8xl_active_phablet:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "6rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontSize_9xl_active_phablet:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "8rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontFamily_sans_phablet",
+      "meta": { "module": "font", "id": "ff" },
+      "nodes": [
+        {
+          "prop": "font-family",
+          "value": "ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\""
+        }
+      ],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontFamily_serif_phablet",
+      "meta": { "module": "font", "id": "ff" },
+      "nodes": [
+        {
+          "prop": "font-family",
+          "value": "ui-serif,Georgia,Cambria,\"Times New Roman\",Times,serif"
+        }
+      ],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontFamily_mono_phablet",
+      "meta": { "module": "font", "id": "ff" },
+      "nodes": [
+        {
+          "prop": "font-family",
+          "value": "ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New\",monospace"
+        }
+      ],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".fontWeight_thin_tablet",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "100" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeight_extralight_tablet",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "200" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeight_light_tablet",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "300" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeight_normal_tablet",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "400" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeight_medium_tablet",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "500" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeight_semibold_tablet",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "600" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeight_bold_tablet",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "700" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeight_extrabold_tablet",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "800" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeight_black_tablet",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "900" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeight_thin_hover_tablet:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "100" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeight_extralight_hover_tablet:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "200" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeight_light_hover_tablet:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "300" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeight_normal_hover_tablet:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "400" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeight_medium_hover_tablet:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "500" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeight_semibold_hover_tablet:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "600" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeight_bold_hover_tablet:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "700" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeight_extrabold_hover_tablet:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "800" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeight_black_hover_tablet:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "900" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeight_thin_focus_tablet:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "100" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeight_extralight_focus_tablet:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "200" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeight_light_focus_tablet:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "300" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeight_normal_focus_tablet:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "400" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeight_medium_focus_tablet:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "500" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeight_semibold_focus_tablet:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "600" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeight_bold_focus_tablet:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "700" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeight_extrabold_focus_tablet:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "800" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeight_black_focus_tablet:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "900" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeight_thin_active_tablet:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "100" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeight_extralight_active_tablet:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "200" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeight_light_active_tablet:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "300" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeight_normal_active_tablet:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "400" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeight_medium_active_tablet:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "500" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeight_semibold_active_tablet:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "600" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeight_bold_active_tablet:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "700" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeight_extrabold_active_tablet:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "800" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeight_black_active_tablet:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "900" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeightNormal_tablet",
+      "meta": { "module": "font", "id": "fw:n" },
+      "nodes": [{ "prop": "font-weight", "value": "normal" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeightBold_tablet",
+      "meta": { "module": "font", "id": "fw:b" },
+      "nodes": [{ "prop": "font-weight", "value": "bold" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeightBold_hover_tablet:hover",
+      "meta": { "module": "font", "id": "fw:b" },
+      "nodes": [{ "prop": "font-weight", "value": "bold" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeightBold_focus_tablet:focus",
+      "meta": { "module": "font", "id": "fw:b" },
+      "nodes": [{ "prop": "font-weight", "value": "bold" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeightBold_active_tablet:active",
+      "meta": { "module": "font", "id": "fw:b" },
+      "nodes": [{ "prop": "font-weight", "value": "bold" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_xs_tablet",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.75rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_sm_tablet",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.875rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_base_tablet",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_lg_tablet",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.125rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_xl_tablet",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.25rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_2xl_tablet",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.5rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_3xl_tablet",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.875rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_4xl_tablet",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "2.25rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_5xl_tablet",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_6xl_tablet",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3.75rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_7xl_tablet",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "4.5rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_8xl_tablet",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "6rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_9xl_tablet",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "8rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_xs_hover_tablet:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.75rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_sm_hover_tablet:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.875rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_base_hover_tablet:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_lg_hover_tablet:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.125rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_xl_hover_tablet:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.25rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_2xl_hover_tablet:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.5rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_3xl_hover_tablet:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.875rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_4xl_hover_tablet:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "2.25rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_5xl_hover_tablet:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_6xl_hover_tablet:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3.75rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_7xl_hover_tablet:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "4.5rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_8xl_hover_tablet:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "6rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_9xl_hover_tablet:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "8rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_xs_focus_tablet:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.75rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_sm_focus_tablet:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.875rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_base_focus_tablet:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_lg_focus_tablet:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.125rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_xl_focus_tablet:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.25rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_2xl_focus_tablet:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.5rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_3xl_focus_tablet:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.875rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_4xl_focus_tablet:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "2.25rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_5xl_focus_tablet:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_6xl_focus_tablet:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3.75rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_7xl_focus_tablet:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "4.5rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_8xl_focus_tablet:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "6rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_9xl_focus_tablet:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "8rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_xs_active_tablet:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.75rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_sm_active_tablet:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.875rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_base_active_tablet:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_lg_active_tablet:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.125rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_xl_active_tablet:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.25rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_2xl_active_tablet:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.5rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_3xl_active_tablet:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.875rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_4xl_active_tablet:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "2.25rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_5xl_active_tablet:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_6xl_active_tablet:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3.75rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_7xl_active_tablet:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "4.5rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_8xl_active_tablet:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "6rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontSize_9xl_active_tablet:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "8rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontFamily_sans_tablet",
+      "meta": { "module": "font", "id": "ff" },
+      "nodes": [
+        {
+          "prop": "font-family",
+          "value": "ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\""
+        }
+      ],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontFamily_serif_tablet",
+      "meta": { "module": "font", "id": "ff" },
+      "nodes": [
+        {
+          "prop": "font-family",
+          "value": "ui-serif,Georgia,Cambria,\"Times New Roman\",Times,serif"
+        }
+      ],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontFamily_mono_tablet",
+      "meta": { "module": "font", "id": "ff" },
+      "nodes": [
+        {
+          "prop": "font-family",
+          "value": "ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New\",monospace"
+        }
+      ],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".fontWeight_thin_desktop",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "100" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeight_extralight_desktop",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "200" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeight_light_desktop",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "300" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeight_normal_desktop",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "400" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeight_medium_desktop",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "500" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeight_semibold_desktop",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "600" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeight_bold_desktop",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "700" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeight_extrabold_desktop",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "800" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeight_black_desktop",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "900" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeight_thin_hover_desktop:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "100" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeight_extralight_hover_desktop:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "200" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeight_light_hover_desktop:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "300" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeight_normal_hover_desktop:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "400" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeight_medium_hover_desktop:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "500" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeight_semibold_hover_desktop:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "600" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeight_bold_hover_desktop:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "700" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeight_extrabold_hover_desktop:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "800" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeight_black_hover_desktop:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "900" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeight_thin_focus_desktop:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "100" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeight_extralight_focus_desktop:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "200" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeight_light_focus_desktop:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "300" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeight_normal_focus_desktop:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "400" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeight_medium_focus_desktop:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "500" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeight_semibold_focus_desktop:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "600" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeight_bold_focus_desktop:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "700" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeight_extrabold_focus_desktop:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "800" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeight_black_focus_desktop:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "900" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeight_thin_active_desktop:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "100" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeight_extralight_active_desktop:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "200" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeight_light_active_desktop:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "300" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeight_normal_active_desktop:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "400" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeight_medium_active_desktop:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "500" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeight_semibold_active_desktop:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "600" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeight_bold_active_desktop:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "700" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeight_extrabold_active_desktop:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "800" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeight_black_active_desktop:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "900" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeightNormal_desktop",
+      "meta": { "module": "font", "id": "fw:n" },
+      "nodes": [{ "prop": "font-weight", "value": "normal" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeightBold_desktop",
+      "meta": { "module": "font", "id": "fw:b" },
+      "nodes": [{ "prop": "font-weight", "value": "bold" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeightBold_hover_desktop:hover",
+      "meta": { "module": "font", "id": "fw:b" },
+      "nodes": [{ "prop": "font-weight", "value": "bold" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeightBold_focus_desktop:focus",
+      "meta": { "module": "font", "id": "fw:b" },
+      "nodes": [{ "prop": "font-weight", "value": "bold" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeightBold_active_desktop:active",
+      "meta": { "module": "font", "id": "fw:b" },
+      "nodes": [{ "prop": "font-weight", "value": "bold" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_xs_desktop",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.75rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_sm_desktop",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.875rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_base_desktop",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_lg_desktop",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.125rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_xl_desktop",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.25rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_2xl_desktop",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.5rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_3xl_desktop",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.875rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_4xl_desktop",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "2.25rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_5xl_desktop",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_6xl_desktop",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3.75rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_7xl_desktop",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "4.5rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_8xl_desktop",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "6rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_9xl_desktop",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "8rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_xs_hover_desktop:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.75rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_sm_hover_desktop:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.875rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_base_hover_desktop:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_lg_hover_desktop:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.125rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_xl_hover_desktop:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.25rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_2xl_hover_desktop:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.5rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_3xl_hover_desktop:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.875rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_4xl_hover_desktop:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "2.25rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_5xl_hover_desktop:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_6xl_hover_desktop:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3.75rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_7xl_hover_desktop:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "4.5rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_8xl_hover_desktop:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "6rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_9xl_hover_desktop:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "8rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_xs_focus_desktop:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.75rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_sm_focus_desktop:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.875rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_base_focus_desktop:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_lg_focus_desktop:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.125rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_xl_focus_desktop:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.25rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_2xl_focus_desktop:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.5rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_3xl_focus_desktop:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.875rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_4xl_focus_desktop:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "2.25rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_5xl_focus_desktop:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_6xl_focus_desktop:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3.75rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_7xl_focus_desktop:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "4.5rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_8xl_focus_desktop:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "6rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_9xl_focus_desktop:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "8rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_xs_active_desktop:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.75rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_sm_active_desktop:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.875rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_base_active_desktop:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_lg_active_desktop:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.125rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_xl_active_desktop:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.25rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_2xl_active_desktop:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.5rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_3xl_active_desktop:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.875rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_4xl_active_desktop:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "2.25rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_5xl_active_desktop:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_6xl_active_desktop:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3.75rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_7xl_active_desktop:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "4.5rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_8xl_active_desktop:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "6rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontSize_9xl_active_desktop:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "8rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontFamily_sans_desktop",
+      "meta": { "module": "font", "id": "ff" },
+      "nodes": [
+        {
+          "prop": "font-family",
+          "value": "ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\""
+        }
+      ],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontFamily_serif_desktop",
+      "meta": { "module": "font", "id": "ff" },
+      "nodes": [
+        {
+          "prop": "font-family",
+          "value": "ui-serif,Georgia,Cambria,\"Times New Roman\",Times,serif"
+        }
+      ],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontFamily_mono_desktop",
+      "meta": { "module": "font", "id": "ff" },
+      "nodes": [
+        {
+          "prop": "font-family",
+          "value": "ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New\",monospace"
+        }
+      ],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".fontWeight_thin_wideDesktop",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "100" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeight_extralight_wideDesktop",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "200" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeight_light_wideDesktop",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "300" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeight_normal_wideDesktop",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "400" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeight_medium_wideDesktop",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "500" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeight_semibold_wideDesktop",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "600" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeight_bold_wideDesktop",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "700" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeight_extrabold_wideDesktop",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "800" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeight_black_wideDesktop",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "900" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeight_thin_hover_wideDesktop:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "100" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeight_extralight_hover_wideDesktop:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "200" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeight_light_hover_wideDesktop:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "300" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeight_normal_hover_wideDesktop:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "400" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeight_medium_hover_wideDesktop:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "500" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeight_semibold_hover_wideDesktop:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "600" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeight_bold_hover_wideDesktop:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "700" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeight_extrabold_hover_wideDesktop:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "800" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeight_black_hover_wideDesktop:hover",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "900" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeight_thin_focus_wideDesktop:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "100" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeight_extralight_focus_wideDesktop:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "200" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeight_light_focus_wideDesktop:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "300" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeight_normal_focus_wideDesktop:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "400" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeight_medium_focus_wideDesktop:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "500" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeight_semibold_focus_wideDesktop:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "600" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeight_bold_focus_wideDesktop:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "700" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeight_extrabold_focus_wideDesktop:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "800" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeight_black_focus_wideDesktop:focus",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "900" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeight_thin_active_wideDesktop:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "100" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeight_extralight_active_wideDesktop:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "200" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeight_light_active_wideDesktop:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "300" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeight_normal_active_wideDesktop:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "400" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeight_medium_active_wideDesktop:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "500" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeight_semibold_active_wideDesktop:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "600" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeight_bold_active_wideDesktop:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "700" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeight_extrabold_active_wideDesktop:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "800" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeight_black_active_wideDesktop:active",
+      "meta": { "module": "font", "id": "fw" },
+      "nodes": [{ "prop": "font-weight", "value": "900" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeightNormal_wideDesktop",
+      "meta": { "module": "font", "id": "fw:n" },
+      "nodes": [{ "prop": "font-weight", "value": "normal" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeightBold_wideDesktop",
+      "meta": { "module": "font", "id": "fw:b" },
+      "nodes": [{ "prop": "font-weight", "value": "bold" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeightBold_hover_wideDesktop:hover",
+      "meta": { "module": "font", "id": "fw:b" },
+      "nodes": [{ "prop": "font-weight", "value": "bold" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeightBold_focus_wideDesktop:focus",
+      "meta": { "module": "font", "id": "fw:b" },
+      "nodes": [{ "prop": "font-weight", "value": "bold" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontWeightBold_active_wideDesktop:active",
+      "meta": { "module": "font", "id": "fw:b" },
+      "nodes": [{ "prop": "font-weight", "value": "bold" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_xs_wideDesktop",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.75rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_sm_wideDesktop",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.875rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_base_wideDesktop",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_lg_wideDesktop",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.125rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_xl_wideDesktop",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.25rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_2xl_wideDesktop",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.5rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_3xl_wideDesktop",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.875rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_4xl_wideDesktop",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "2.25rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_5xl_wideDesktop",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_6xl_wideDesktop",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3.75rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_7xl_wideDesktop",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "4.5rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_8xl_wideDesktop",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "6rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_9xl_wideDesktop",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "8rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_xs_hover_wideDesktop:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.75rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_sm_hover_wideDesktop:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.875rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_base_hover_wideDesktop:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_lg_hover_wideDesktop:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.125rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_xl_hover_wideDesktop:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.25rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_2xl_hover_wideDesktop:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.5rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_3xl_hover_wideDesktop:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.875rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_4xl_hover_wideDesktop:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "2.25rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_5xl_hover_wideDesktop:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_6xl_hover_wideDesktop:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3.75rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_7xl_hover_wideDesktop:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "4.5rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_8xl_hover_wideDesktop:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "6rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_9xl_hover_wideDesktop:hover",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "8rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_xs_focus_wideDesktop:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.75rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_sm_focus_wideDesktop:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.875rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_base_focus_wideDesktop:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_lg_focus_wideDesktop:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.125rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_xl_focus_wideDesktop:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.25rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_2xl_focus_wideDesktop:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.5rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_3xl_focus_wideDesktop:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.875rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_4xl_focus_wideDesktop:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "2.25rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_5xl_focus_wideDesktop:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_6xl_focus_wideDesktop:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3.75rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_7xl_focus_wideDesktop:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "4.5rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_8xl_focus_wideDesktop:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "6rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_9xl_focus_wideDesktop:focus",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "8rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_xs_active_wideDesktop:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.75rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_sm_active_wideDesktop:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "0.875rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_base_active_wideDesktop:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_lg_active_wideDesktop:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.125rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_xl_active_wideDesktop:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.25rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_2xl_active_wideDesktop:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.5rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_3xl_active_wideDesktop:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "1.875rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_4xl_active_wideDesktop:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "2.25rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_5xl_active_wideDesktop:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_6xl_active_wideDesktop:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "3.75rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_7xl_active_wideDesktop:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "4.5rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_8xl_active_wideDesktop:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "6rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontSize_9xl_active_wideDesktop:active",
+      "meta": { "module": "font", "id": "fz" },
+      "nodes": [{ "prop": "font-size", "value": "8rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontFamily_sans_wideDesktop",
+      "meta": { "module": "font", "id": "ff" },
+      "nodes": [
+        {
+          "prop": "font-family",
+          "value": "ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\""
+        }
+      ],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontFamily_serif_wideDesktop",
+      "meta": { "module": "font", "id": "ff" },
+      "nodes": [
+        {
+          "prop": "font-family",
+          "value": "ui-serif,Georgia,Cambria,\"Times New Roman\",Times,serif"
+        }
+      ],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".fontFamily_mono_wideDesktop",
+      "meta": { "module": "font", "id": "ff" },
+      "nodes": [
+        {
+          "prop": "font-family",
+          "value": "ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New\",monospace"
+        }
+      ],
+      "media": "screen and (min-width: 1280px)"
+    }
+  ],
+  "line-height": [
+    {
+      "selector": ".lineHeight_normal",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "1" }]
+    },
+    {
+      "selector": ".lineHeight_s",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "1rem" }]
+    },
+    {
+      "selector": ".lineHeight_m",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "1.25rem" }]
+    },
+    {
+      "selector": ".lineHeight_l",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "1.5rem" }]
+    },
+    {
+      "selector": ".lineHeight_xl",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "1.75rem" }]
+    },
+    {
+      "selector": ".lineHeight_xxl",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "2rem" }]
+    },
+    {
+      "selector": ".lineHeight_3xl",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "2.25rem" }]
+    },
+    {
+      "selector": ".lineHeight_4xl",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "2.5rem" }]
+    },
+    {
+      "selector": ".lineHeight_normal_mobile",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "1" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".lineHeight_s_mobile",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "1rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".lineHeight_m_mobile",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "1.25rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".lineHeight_l_mobile",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "1.5rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".lineHeight_xl_mobile",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "1.75rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".lineHeight_xxl_mobile",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "2rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".lineHeight_3xl_mobile",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "2.25rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".lineHeight_4xl_mobile",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "2.5rem" }],
+      "media": "screen and (min-width: 320px)"
+    },
+    {
+      "selector": ".lineHeight_normal_phablet",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "1" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".lineHeight_s_phablet",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "1rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".lineHeight_m_phablet",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "1.25rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".lineHeight_l_phablet",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "1.5rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".lineHeight_xl_phablet",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "1.75rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".lineHeight_xxl_phablet",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "2rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".lineHeight_3xl_phablet",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "2.25rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".lineHeight_4xl_phablet",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "2.5rem" }],
+      "media": "screen and (min-width: 480px)"
+    },
+    {
+      "selector": ".lineHeight_normal_tablet",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "1" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".lineHeight_s_tablet",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "1rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".lineHeight_m_tablet",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "1.25rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".lineHeight_l_tablet",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "1.5rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".lineHeight_xl_tablet",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "1.75rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".lineHeight_xxl_tablet",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "2rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".lineHeight_3xl_tablet",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "2.25rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".lineHeight_4xl_tablet",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "2.5rem" }],
+      "media": "screen and (min-width: 768px)"
+    },
+    {
+      "selector": ".lineHeight_normal_desktop",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "1" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".lineHeight_s_desktop",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "1rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".lineHeight_m_desktop",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "1.25rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".lineHeight_l_desktop",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "1.5rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".lineHeight_xl_desktop",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "1.75rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".lineHeight_xxl_desktop",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "2rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".lineHeight_3xl_desktop",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "2.25rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".lineHeight_4xl_desktop",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "2.5rem" }],
+      "media": "screen and (min-width: 1024px)"
+    },
+    {
+      "selector": ".lineHeight_normal_wideDesktop",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "1" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".lineHeight_s_wideDesktop",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "1rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".lineHeight_m_wideDesktop",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "1.25rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".lineHeight_l_wideDesktop",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "1.5rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".lineHeight_xl_wideDesktop",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "1.75rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".lineHeight_xxl_wideDesktop",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "2rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".lineHeight_3xl_wideDesktop",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "2.25rem" }],
+      "media": "screen and (min-width: 1280px)"
+    },
+    {
+      "selector": ".lineHeight_4xl_wideDesktop",
+      "meta": { "module": "line-height", "id": "lh" },
+      "nodes": [{ "prop": "line-height", "value": "2.5rem" }],
+      "media": "screen and (min-width: 1280px)"
+    }
+  ]
+}
